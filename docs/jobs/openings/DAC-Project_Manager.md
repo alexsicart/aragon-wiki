@@ -4,7 +4,7 @@
 
 As part of the ongoing efforts to build out the Aragon infrastructure, the Aragon Foundation is [collaborating with Giveth](https://blog.aragon.org/aragon-dac-a-new-community-effort-to-foster-aragons-development-led-by-giveth/) to build out a second core team that will help end-users experiment with the Aragon stack. We're looking for a Project Manager to lead this effort and ensure our team is successful.
 
-The first concrete project to manage will be making the Aragon DAC Website using upwork web devs or equivelent.
+The first concrete project to manage will be making the Aragon DAC Website using upwork web devs or equivelent. 
 
 ### Responsibilities
 
